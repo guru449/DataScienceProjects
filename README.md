@@ -50,6 +50,8 @@ This repository contains various projects related to data analysis and machine l
 ## Installation
 
 To get started with these projects, you need to install the required libraries. You can install them using pip:
-
-```bash
 pip install numpy pandas matplotlib seaborn plotly scikit-learn tensorflow keras
+
+## Contact
+
+For queries, Please contact - contactgurucharan.r@gmail.com
